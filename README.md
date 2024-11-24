@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm tayaba tariq</h1>
-<h3 align="center">i am a front end developer with strong designing skills.</h3>
+<h1 align="center">Hi 👋, I'm Tayaba!</h1>
+<h3 align="center">I am Tayaba Tariq, a passionate and dedicated front-end developer with hands-on experience in building dynamic and responsive websites. As a BSCS student at Virtual University, I have been honing my skills in modern web development technologies, contributing to creative and innovative projects. With a strong foundation in HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, GSAP, ScrollTrigger, C++, and C, I aim to craft seamless user experiences. My commitment to learning and growth has driven me to explore advanced tools and frameworks like React, with plans to dive into Redux soon. Technical Skills Front-End Technologies: HTML, CSS, JavaScript, Bootstrap, Tailwind CSS Advanced Animations: GSAP, ScrollTrigger Programming Languages: C++, C Development Tools: Visual Studio Code, Git, GitHub Learning Path: React, Redux (upcoming) Education Bachelor of Science in Computer Science (BSCS) Virtual University Ongoing Intermediate in Computer Science (ICS) Iman College Certifications LEAN Foundations Professional Certification™ (LFPC™) – SkillFront HTML Certification – Udemy JavaScript Essentials and Beginner Courses Web Designing Certification Computer Hardware Course – Cisco Internships Rhombix Technologies (21st November - 21st February) A 3-month intensive internship focusing on web development and practical application of front-end skills. Cognifyz Contributed to real-world projects, sharpening my development and teamwork skills.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/tayabatariq/linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tayabatariq/linkedin" height="30" width="40" /></a>
+<a href="https://instagram.com/tayabatariq/insta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tayabatariq/insta" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
