@@ -3,9 +3,7 @@
 I am Tayaba Tariq, a passionate and skilled front-end developer specializing in creating visually stunning, responsive, and user-friendly websites. With hands-on experience in modern web technologies like HTML, CSS, JavaScript, GSAP, and ScrollTrigger, I thrive on turning creative ideas into reality. As a BSCS student at Virtual University, I am committed to lifelong learning, currently mastering React with plans to advance into Redux. My work reflects my dedication to innovation, quality, and collaboration.
 </h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="60" height="60" />
-</p>
+
 
 ---
 
