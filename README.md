@@ -1,18 +1,8 @@
-<h1 align="center">Hi 👋, I'm Tayaba!</h1>
-<h3 align="center">
-I am Tayaba Tariq, a passionate and skilled front-end developer specializing in creating visually stunning, responsive, and user-friendly websites. With hands-on experience in modern web technologies like HTML, CSS, JavaScript, GSAP, and ScrollTrigger, I thrive on turning creative ideas into reality. As a BSCS student at Virtual University, I am committed to lifelong learning, currently mastering React with plans to advance into Redux. My work reflects my dedication to innovation, quality, and collaboration.
-</h3>
+<h1 align="center">Hi 👋, I'm Tayaba Tariq</h1>
+<h3 align="center">Front-End Developer | Creative Problem Solver | Lifelong Learner</h3>
 
-
-
----
-
-<h2 align="center">✨ Skills and Expertise ✨</h2>
 <p align="center">
-🔹 HTML, CSS, JavaScript, Tailwind CSS, Bootstrap  
-🔹 Animation Libraries: GSAP, ScrollTrigger  
-🔹 Programming Languages: C++, C  
-🔹 Frameworks: React (Learning Redux)
+  I specialize in building visually appealing, interactive, and user-focused websites. With a passion for innovative designs and cutting-edge web technologies, I thrive on creating digital experiences that inspire and engage. Currently pursuing a BSCS degree at Virtual University, I am always eager to expand my skillset and tackle new challenges in the ever-evolving world of web development.
 </p>
 
 <p align="center">
@@ -21,26 +11,49 @@ I am Tayaba Tariq, a passionate and skilled front-end developer specializing in 
 
 ---
 
-<h2 align="center">📚 Passion for Learning</h2>
+<h2 align="center">🌟 Skills and Expertise</h2>
+
+<ul>
+  <li>💻 **Core Web Technologies**: HTML, CSS, JavaScript, Tailwind CSS, Bootstrap</li>
+  <li>🎨 **Animation Libraries**: GSAP, ScrollTrigger</li>
+  <li>⚙️ **Programming Languages**: C++, C</li>
+  <li>⚛️ **Frameworks & Tools**: React (in progress), Redux (learning)</li>
+  <li>📜 **Certifications**: JavaScript, Web Design, and HTML certifications</li>
+</ul>
+
 <p align="center">
-I believe that growth is a continuous journey. Over the past year, I have immersed myself in web development, successfully completing certifications in JavaScript, web design, and HTML. My learning path includes practical internships where I applied my skills to real-world projects, gaining valuable experience. I am now on a journey to learn React and Redux, expanding my ability to create robust, feature-rich web applications.
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400" />
 </p>
 
 ---
 
-<h2 align="center">🎯 Career Goals</h2>
+<h2 align="center">🎯 Career Objectives</h2>
 <p align="center">
-My ultimate goal is to be a leader in front-end development, contributing to impactful projects that prioritize user experience and functionality. By mastering tools like React and Redux, I plan to push the boundaries of what's possible in web development. I am eager to collaborate with like-minded professionals and explore new opportunities to grow and make a difference.
+My vision is to lead impactful front-end development projects that emphasize exceptional user experiences and seamless functionality. By mastering advanced tools like React and Redux, I aim to contribute to innovative solutions that drive meaningful change in the digital space. Collaboration and creativity fuel my work, and I am constantly looking for opportunities to grow and make a difference.
+</p>
+
+---
+
+<h2 align="center">📚 Passion for Learning</h2>
+<p align="center">
+I embrace continuous learning as the key to professional growth. Over the past year, I have completed multiple certifications and practical internships, where I honed my technical skills and applied them to real-world projects. My journey now focuses on mastering React and Redux, enabling me to develop scalable and feature-rich applications for modern web platforms.
+</p>
+
+---
+
+<h2 align="center">🤝 Let's Collaborate</h2>
+<p align="center">
+Are you looking for a front-end developer who combines technical expertise with creativity? Let's connect and collaborate on projects that challenge the status quo and deliver exceptional user experiences. Feel free to reach out and discuss opportunities or ideas!
 </p>
 
 ---
 
 <h2 align="center">🌐 Connect with Me</h2>
 <p align="center">
-<a href="https://linkedin.com/in/tayabatariq" target="blank">
+<a href="https://linkedin.com/in/tayabatariq" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
 </a>
-<a href="https://instagram.com/tayabatariq/insta" target="blank">
+<a href="https://instagram.com/tayabatariq/insta" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" alt="Instagram">
 </a>
 </p>
