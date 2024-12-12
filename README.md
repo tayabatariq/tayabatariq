@@ -40,7 +40,7 @@
     <h2>Career Goals</h2>
     <p>
         My ultimate goal is to be a leader in front-end development, contributing to impactful projects that prioritize user experience and functionality. 
-        By mastering tools like React and Redux, I plan to push the boundaries of what's possible in web development. 
+        By mastering tools like React and Redux, I plan to push the boundaries of what's possible in web development.and also I want to become a full-stack developer in the future. 
         I am eager to collaborate with like-minded professionals and explore new opportunities to grow and make a difference.
     </p>
     <p>
