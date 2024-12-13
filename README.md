@@ -14,7 +14,7 @@
     <h2>Skills and Expertise</h2>
     <ul>
         <li>Proficient in HTML, CSS, JavaScript, Tailwind CSS, and Bootstrap.</li>
-        <li>Experience with animation libraries like GSAP and ScrollTrigger.</li>
+        <li>Experience with animation libraries like GSAP.</li>
         <li>Programming knowledge in C++ and C.</li>
         <li>Exploring advanced frameworks like React to build scalable web applications.</li>
         <li>Eager to embrace new tools and techniques to enhance user experiences.</li>
