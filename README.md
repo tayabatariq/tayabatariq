@@ -1,5 +1,5 @@
 <div align="center">
-    <h3>I am Tayaba Tariq, a passionate and skilled front-end developer specializing in creating visually stunning, responsive, and user-friendly websites.</h3>
+    <h3>I am Tayaba Tariq, a passionate and skilled <i>front-end developer </i>specializing in creating visually stunning, responsive, and user-friendly websites.</h3>
     <p>
         With hands-on experience in modern web technologies like HTML, CSS, JavaScript, GSAP, Boostrap ,Tailwind CSS. I thrive on turning creative ideas into reality. 
         As a BSCS student at Virtual University, I am committed to lifelong learning, currently mastering React with plans to advance into Redux. and future in Full-stack developer.
@@ -11,7 +11,7 @@
 </div>
 
 <div>
-    <h2>Skills and Expertise</h2>
+    <h1>Skills and Expertise</h1>
     <ul>
         <li>Proficient in HTML, CSS, JavaScript, Tailwind CSS, and Bootstrap.</li>
         <li>Experience with animation libraries like GSAP.</li>
@@ -24,7 +24,7 @@
 </div>
 
 <div>
-    <h2>Passion for Learning</h2>
+    <h1>Passion for Learning</h1>
     <p>
         I believe that growth is a continuous journey. Over the past year, I have immersed myself in web development, successfully completing certifications in JavaScript, web design, and HTML. 
         My learning path includes practical internships where I applied my skills to real-world projects, gaining valuable experience. 
@@ -37,7 +37,7 @@
 </div>
 
 <div>
-    <h2>Career Goals</h2>
+    <h1>Career Goals</h1>
     <p>
         My ultimate goal is to be a leader in front-end development, contributing to impactful projects that prioritize user experience and functionality. 
         By mastering tools like React and Redux, I plan to push the boundaries of what's possible in web development.and also I want to become a full-stack developer in the future. 
@@ -50,7 +50,7 @@
 </div>
 
 <div>
-    <h2>Call to Action</h2>
+    <h1>Call to Action</h1>
     <p>
         Feel free to connect with me to explore exciting opportunities or discuss potential collaborations. 
         I am always eager to contribute to projects that inspire creativity and innovation.
