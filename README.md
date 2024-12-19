@@ -1,9 +1,11 @@
 <div align="center">
     <h3>I am Tayaba Tariq, a passionate and skilled <i>front-end developer </i>specializing in creating visually stunning, responsive, and user-friendly websites.</h3>
     <p>
-        With hands-on experience in modern web technologies like HTML, CSS, JavaScript, GSAP, Boostrap ,Tailwind CSS. I thrive on turning creative ideas into reality. 
-        As a BSCS student at Virtual University, I am committed to lifelong learning, currently mastering React with plans to advance into Redux. and future in Full-stack developer.
-        My work reflects my dedication to innovation, quality, and collaboration.
+      With hands-on experience in modern web technologies such as HTML, CSS, JavaScript, GSAP, Bootstrap, and Tailwind CSS, I excel at transforming creative ideas into functional, visually appealing solutions.
+
+As a Bachelor of Science in Computer Science (BSCS) student at Virtual University, I am dedicated to continuous learning and growth. Currently, I am mastering React.js, with plans to advance into Redux, as part of my journey toward becoming a skilled Full-Stack Developer.
+
+My work demonstrates a strong commitment to innovation, quality, and effective collaboration, ensuring impactful results in every project I undertake.
     </p>
     <p>
        I am deeply passionate about leveraging the power of technology to transform innovative ideas into impactful solutions. With a blend of creativity and technical expertise, I strive to craft exceptional web experiences that not only meet user needs but also leave a lasting impression. My goal is to continuously push the boundaries of what's possible in the digital space while delivering value-driven, user-centric solutions.
