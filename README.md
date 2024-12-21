@@ -29,8 +29,9 @@ My work demonstrates a strong commitment to innovation, quality, and effective c
     <h1>Passion for Learning</h1>
     <p>
         I believe that growth is a continuous journey. Over the past year, I have immersed myself in web development, successfully completing certifications in JavaScript, web design, and HTML. 
-        My learning path includes practical internships where I applied my skills to real-world projects, gaining valuable experience. 
-        I am now on a journey to learn React and Redux, expanding my ability to create robust, feature-rich web applications.
+        My learning path includes engaging in practical internships where I effectively applied my skills to tackle real-world projects, gaining invaluable hands-on experience. These opportunities have helped me strengthen my technical expertise and problem-solving abilities.
+        
+Currently, I am on an exciting journey to master React and Redux, aiming to expand my knowledge and capabilities in creating dynamic, robust, and feature-rich web applications. This endeavor is a key step toward becoming a versatile developer equipped to handle modern web development challenges.
     </p>
     <p>
         As part of my commitment to professional growth, I regularly engage with the developer community, participate in hackathons, and stay updated with the latest industry trends. 
