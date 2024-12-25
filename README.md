@@ -59,6 +59,6 @@ Currently, I am on an exciting journey to master React and Redux, aiming to expa
         I am always eager to contribute to projects that inspire creativity and innovation.
     </p>
     <p>
-        Let's connect on LinkedIn or GitHub, or reach out directly via email. Together, we can create something truly remarkable!
+        Let's connect on LinkedIn or GitHub, or reach out directly via email. Together, we can create something truly remarkable.!
     </p>
 </div>
