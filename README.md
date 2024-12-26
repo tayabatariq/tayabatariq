@@ -3,7 +3,7 @@
     <p>
       With hands-on experience in modern web technologies such as HTML, CSS, JavaScript, GSAP, Bootstrap, and Tailwind CSS, I excel at transforming creative ideas into functional, visually appealing solutions.
 
-As a Bachelor of Science in Computer Science (BSCS) student at Virtual University, I am dedicated to continuous learning and growth. Currently, I am mastering React.js, with plans to advance into Redux, as part of my journey toward becoming a skilled Full-Stack Developer.
+As a Bachelor of Science in Computer Science (BSCS) student at Virtual University, I am dedicated to continuous learning and growth. Currently, I am mastering React.js, with plans to advance into Redux, as part of my journey toward becoming a skilled <i>Full-Stack Developer</i> .
 
 My work demonstrates a strong commitment to innovation, quality, and effective collaboration, ensuring impactful results in every project I undertake.
     </p>
