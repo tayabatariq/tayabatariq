@@ -8,7 +8,7 @@ As a Bachelor of Science in Computer Science (BSCS) student at Virtual Universit
 My work demonstrates a strong commitment to innovation, quality, and effective collaboration, ensuring impactful results in every project I undertake.
     </p>
     <p>
-       I am deeply passionate about leveraging the power of technology to transform innovative ideas into impactful solutions. With a blend of creativity and technical expertise, I strive to craft exceptional web experiences that not only meet user needs but also leave a lasting impression. My goal is to continuously push the boundaries of what's possible in the digital space while delivering value-driven, user-centric solutions.
+       I am deeply <i>passionate</> about leveraging the power of technology to transform innovative ideas into impactful solutions. With a blend of creativity and technical expertise, I strive to craft exceptional web experiences that not only meet user needs but also leave a lasting impression. My goal is to continuously push the boundaries of what's possible in the digital space while delivering value-driven, user-centric solutions.
     </p>
 </div>
 
