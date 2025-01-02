@@ -29,9 +29,6 @@
     </ul>
 </div>
 
-<div align="center">
-    <img src="coding-placeholder-1.png" alt="Coding Image 1" width="500" />
-</div>
 
 <div>
     <h1>📘 Passion for Learning</h1>
@@ -46,9 +43,6 @@
     </p>
 </div>
 
-<div align="center">
-    <img src="coding-placeholder-2.png" alt="Coding Image 2" width="500" />
-</div>
 
 <div>
     <h1>🎯 Career Goals</h1>
