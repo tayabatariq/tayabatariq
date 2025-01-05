@@ -3,7 +3,7 @@
     <p>
         🚀 I specialize in creating visually stunning, responsive, and user-friendly websites. 
         With hands-on experience in modern web technologies like <b>HTML, CSS, JavaScript, GSAP, Bootstrap, and Tailwind CSS</b>, 
-        I excel at transforming creative ideas into functional, visually appealing solutions. 
+        I excel at transforming creative ideas into functional, visually appealing solution.
     </p>
     <p>
         📚 As a Bachelor of Science in Computer Science (BSCS) student at Virtual University, I am committed to continuous learning. and also 
