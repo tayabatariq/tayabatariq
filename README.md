@@ -25,7 +25,7 @@
         <li>🌐 Exploring advanced frameworks like <b>React</b> to build scalable web applications.</li>
         <li>📱 Expertise in creating <b>responsive designs</b> that adapt seamlessly to various devices.</li>
         <li>🐛 Skilled in debugging and optimizing code for performance and efficiency.</li>
-        <li>📈 Eager to embrace new tools and techniques to enhance user experiences.</li>
+        <li>📈 Eager to embrace new <b>tools</b> and techniques to enhance user experiences.</li>
     </ul>
 </div>
 
