@@ -11,7 +11,7 @@
         <i>Full-Stack Developer</i>. 
     </p>
     <p>
-        💡 My work reflects innovation, quality, and collaboration. I strive to craft exceptional web experiences that 
+        💡 My work reflects innovation, quality, and <i>collaboration</i>. I strive to craft exceptional web experiences that 
         leave a lasting impression and deliver value-driven, user-centric solutions.
     </p>
 </div>
