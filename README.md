@@ -7,7 +7,7 @@
     </p>
     <p>
         📚 As a Bachelor of Science in Computer Science (BSCS) student at Virtual University, I am committed to continuous learning. and also 
-        Currently, I am mastering <b>React.js</b>, with plans to explore <b>Redux</b>, on my journey toward becoming a skilled 
+        Currently, I am mastering <b>React.js</b>, with plans to explore <b>Redux</b>, on my journey toward becoming a skilled
         <i>Full-Stack Developer</i>. 
     </p>
     <p>
