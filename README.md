@@ -12,7 +12,7 @@
     </p>
     <p>
         💡 My work reflects innovation, quality, and <i>collaboration</i>. I strive to craft exceptional web experiences that 
-        leave a lasting impression and deliver value-driven, user-centric solutions.
+        leave a lasting impression and deliver value-driven, user-centric solutions. 
     </p>
 </div>
 
