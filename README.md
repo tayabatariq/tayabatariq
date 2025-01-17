@@ -1,70 +1,50 @@
 <div align="center">
-    <h3>👋 I am Tayaba Tariq, a passionate and skilled <i>front-end developer</i>!</h3>
+    <h3>👋 I'm Tayaba Tariq, an energetic <i>Front-End Developer</i>!</h3>
     <p>
-        🚀 I specialize in creating visually stunning, responsive, and user-friendly websites. 
-        With hands-on experience in modern web technologies like <b>HTML, CSS, JavaScript, GSAP, Bootstrap, and Tailwind CSS</b>, 
-        I excel at transforming creative ideas into functional, visually appealing solution.
+        🚀 I have some expertise in making responsive and easy to understand sites with present day web advancements like <b>HTML, CSS, JavaScript, GSAP, Bootstrap, and Tailwind CSS</b>.
     </p>
     <p>
-        📚 As a Bachelor of Science in Computer Science (BSCS) student at Virtual University, I am committed to continuous learning. and also 
-        Currently, I am mastering <b>React.js</b>, with plans to explore <b>Redux</b>, on my journey toward becoming a skilled
-        <i>Full-Stack Developer</i>. 
+        📚 Pursuing a Bachelor of Science in Computer Science (BSCS) from Virtual University and 
+Currently enhancing my skills in React.js and Redux.
+Aspiring to become a proficient Full-Stack Developer</i>.
     </p>
     <p>
-        💡 My work reflects innovation, quality, and <i>collaboration</i>. I strive to craft exceptional web experiences that 
-        leave a lasting impression and deliver value-driven, user-centric solutions. 
+        💡 I center around conveying superior grade, creative web arrangements that give uncommon client encounters.
     </p>
 </div>
 
 <div>
-    <h1>🌟 Skills and Expertise</h1>
+    <h1>🌟 Abilities and Expertise</h1>
     <ul>
-        <li>⚡ Proficient in <b>HTML, CSS, JavaScript, Tailwind CSS, and Bootstrap</b>.</li>
-        <li>✨ Experience with animation libraries like <b>GSAP</b>.</li>
-        <li>🔍 Programming knowledge in <b>C++ and C</b>.</li>
-        <li>🌐 Exploring advanced frameworks like <b>React</b> to build scalable web applications.</li>
-        <li>📱 Expertise in creating <b>responsive designs</b> that adapt seamlessly to various devices.</li>
-        <li>🐛 Skilled in debugging and optimizing code for performance and efficiency.</li>
-        <li>📈 Eager to embrace new <b>tools</b> and techniques to enhance user experiences.</li>
+        <li>⚡ Ability in <b> CSS | SASS&SCSS, Ecma Content ES6 , Tailwind CSS, and React</b>.</li>
+        <li>✨ Capable with liveliness libraries like <b>GSAP</b>.</li>
+        <li>🌐 Building dynamic web applications utilizing <b>React.js</b>.</li>
+        <li>📱 Talented in making <b>responsive designs</b> for consistent client encounters across devices.</li>
+        <li>🐛 Solid investigating and code enhancement capabilities.</li>
     </ul>
 </div>
 
-
 <div>
-    <h1>📘 Passion for Learning</h1>
+    <h1>📘 Learning Journey</h1>
     <p>
-        I believe growth is a continuous journey. Over the past year, I have immersed myself in web development, 
-        completing certifications in <b>JavaScript, Web Design, and HTML</b>. 
-        Practical internships have given me invaluable hands-on experience, helping me tackle real-world projects effectively. 
+        🌱 Devoted to nonstop development, I have finished certificates in <b>JavaScript, Website composition, and HTML</b>. Functional temporary positions and genuine undertakings have leveled up my critical thinking abilities.
     </p>
     <p>
-        🌱 Currently, I am mastering <b>React and Redux</b>, aiming to build dynamic, robust, and feature-rich web applications. 
-        Engaging with the developer community and participating in hackathons help me stay updated with industry trends.
-    </p>
-</div>
-
-
-<div>
-    <h1>🎯 Career Goals</h1>
-    <p>
-        My ultimate goal is to lead impactful projects that prioritize user experience and functionality. 
-        By mastering tools like <b>React</b> and <b>Redux</b>, I plan to push the boundaries of what's possible in web development 
-        and transition into a full-stack role. 
-    </p>
-    <p>
-        👩‍🏫 Long-term, I aspire to mentor aspiring developers, sharing my knowledge to help them achieve their goals. 
-        I want to contribute to projects that solve technical challenges and create meaningful experiences for users worldwide.
+        🚀 Presently centered around dominating <b>React</b> and <b>Redux</b> to construct include rich web applications.
     </p>
 </div>
 
 <div>
-    <h1>🤝 Let's Connect!</h1>
+    <h1>🎯 Profession Goals</h1>
     <p>
-        Feel free to connect with me for exciting opportunities or potential collaborations. 
-        Let's create something remarkable together! 🌟
+        I want to lead effective ventures that focus on client experience and usefulness. By dominating high level web advancements, I plan to progress into a Full-Stack Designer job and add to significant tasks.
     </p>
+    
+</div>
+
+<div>
+    <h1>🤝 We should Connect!</h1>
     <p>
-        🔗 Connect on <b>LinkedIn</b> or <b>GitHub</b>, or reach out via <b>email</b>. 
-        I'm always eager to work on innovative and impactful projects.
+        🔗 Interface with me on <b>LinkedIn</b>, <b>GitHub</b>, or through <b>email</b>. I'm eager to team up on inventive undertakings and make effective arrangements. 🌟
     </p>
 </div>
