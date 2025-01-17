@@ -14,7 +14,7 @@ Aspiring to become a proficient Full-Stack Developer</i>.
 <div>
     <h1>🌟 Abilities and Expertise</h1>
     <ul>
-        <li> Ability in <b> CSS | SASS&SCSS, Ecma Content ES6 , Tailwind CSS, and React</b>.</li>
+        <li> Ability in <b> CSS | SASS&SCSS, ECMA SCRIPT ES6 , Tailwind CSS, and React</b>.</li>
         <li> Capable with liveliness libraries like <b>GSAP</b>.</li>
         <li> Building dynamic web applications utilizing <b>React.js</b>.</li>
         <li> Talented in making <b>responsive designs</b> for consistent client encounters across devices.</li>
