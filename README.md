@@ -40,9 +40,4 @@ Aspiring to become a proficient Full-Stack Developer</i>.
     
 </div>
 
-<div>
-    <h1>🤝 We should Connect!</h1>
-    <p>
-        🔗 Interface with me on <b>LinkedIn</b>, <b>GitHub</b>, or through <b>email</b>. I'm eager to team up on inventive undertakings and make effective arrangements. 🌟
-    </p>
-</div>
+
