@@ -6,7 +6,7 @@
     <p>
      Pursuing a Bachelor of Science in Computer Science (BSCS) from Virtual University and 
      
-        
+
 Currently enhancing my skills in React.js and Redux.
 Aspiring to become a proficient Full-Stack Developer</i>.
     </p>
