@@ -3,8 +3,7 @@
     <p>
          I have some expertise in making responsive and easy to understand sites with present day web advancements like <b>HTML, CSS, JavaScript, GSAP, Bootstrap, and Tailwind CSS</b>.
     </p>
-    <p>
-    
+    <p>    
  Pursuing a Bachelor of Science in Computer Science (BSCS) from Virtual University and  Currently enhancing my skills in React.js and Redux.
 Aspiring to become a proficient Full-Stack Developer</i>.
     </p>
