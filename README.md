@@ -34,7 +34,7 @@ Aspiring to become a proficient Full-Stack Developer</i>.
 <div>
     <h1>🎯 Profession Goals</h1>
     <p>
-        I want to lead effective ventures that focus on client experience and usefulness. By dominating high level web advancements, I plan to progress into a Full-Stack Designer job and add to significant tasks.
+        I want to lead effective ventures that focus on client experience and usefulness. By dominating high level web advancements, I plan to progress into a Full-Stack Designer job and add to significant tasks
     </p>
     
 </div>
