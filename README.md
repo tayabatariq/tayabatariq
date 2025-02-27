@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Full Stack Developer</h1>
-<h3 align="center">I am a complete stack developer specializing in both frontnd and backnd development, specializing in react, next.jS, node.JS and Mongodb. I am fond of building responsible, user -friendly applications that provide a spontaneous experience. Currently, I am expanding my skills by learning WordPress and Shopify to broaden my expertise in web development and e-commerce solutions.</h3>
+<h3 align="center">I am a Full stack developer specializing in both frontnd and backnd development, specializing in react, node.JS and Mongodb. I am fond of building responsible, user -friendly applications that provide a spontaneous experience. Currently, I am expanding my skills by learning WordPress and Shopify to broaden my expertise in web development and e-commerce solutions.</h3>
 
 - 🔭 I’m currently working on [teqtronics](http://teqtronics.com/)
 
