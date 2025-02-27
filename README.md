@@ -1,42 +1,16 @@
-<div align="center">
-    <h3>👋 I'm Tayaba Tariq, an energetic <i>Front-End Developer</i>!</h3>
-    <p>
-         I have some expertise in making responsive and easy to understand sites with present day web advancements like <b>HTML, CSS, JavaScript, GSAP, Bootstrap, and Tailwind CSS</b>.
-    </p>
-    <p>   
- Pursuing a Bachelor of Science in Computer Science (BSCS) from Virtual University and  Currently enhancing my skills in React.js and Redux.
-Aspiring to become a proficient Full-Stack Developer</i>.
-    </p>
+<h1 align="center">Hi 👋, I'm Full Stack Developer</h1>
+<h3 align="center">A passionate frontend developer .</h3>
 
-</div>
+- 🔭 I’m currently working on [teqtronics](http://teqtronics.com/)
 
-<div>
-    <h1>🌟 Abilities and Expertise</h1>
-    <ul>
-        <li> Ability in <b> CSS | SASS&SCSS, ECMA SCRIPT ES6 , Tailwind CSS, and React</b>.</li>
-        <li> Capable with liveliness libraries like <b>GSAP</b>.</li>
-        <li> Building dynamic web applications utilizing <b>React.js</b>.</li>
-        <li> Talented in making <b>responsive designs</b> for consistent client encounters across devices.</li>
-        <li> Solid investigating and code enhancement capabilities.</li>
-    </ul>
-</div>
+- 🌱 I’m currently learning **Wordpress ans shopify.**
 
-<div>
-    <h1>📘 Learning Journey</h1>
-    <p>
-        Devoted to nonstop development, I have finished certificates in <b>JavaScript, Website composition, and HTML</b>. Functional temporary positions and genuine undertakings have leveled up my critical thinking abilities.
-    </p>
-    <p>
-         Presently centered around dominating <b>React</b> and <b>Redux</b> to construct include rich web applications.
-    </p>
-</div>
+- 📫 How to reach me **tayabatariq3@gmail.com**
 
-<div>
-    <h1>🎯 Profession Goals</h1>
-    <p>
-        I want to lead effective ventures that focus on client experience and usefulness. By dominating high level web advancements, I plan to progress into a Full-Stack Designer job and add to significant tasks
-    </p>
-    
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/tayabatariq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tayabatariq" height="30" width="40" /></a>
+</p>
 
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
