@@ -83,8 +83,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tayabatariq&show_icons=true&locale=en&layout=compact" alt="tayabatariq" /></p>
-<br/>
-<br/><br/>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tayabatariq&show_icons=true&locale=en" alt="tayabatariq" /></p>
-<br/><br/><br/>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tayabatariq&" alt="tayabatariq" /></p>
