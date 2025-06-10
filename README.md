@@ -1,13 +1,19 @@
 <h1 align="center">Hi 👋, I'm Full Stack Developer</h1>
-<h3 align="center">I am a Full stack developer specializing in both frontnd and backnd development, specializing in react, node.JS and Mongodb. I am fond of building responsible, user -friendly applications that provide a spontaneous experience. Currently, I am expanding my skills by learning WordPress and Shopify to broaden my expertise in web development and e-commerce solutions.</h3>
+<h3 align="center">I’m a Full Stack Developer passionate about building responsive, user-friendly, and intuitive web applications. I specialize in modern JavaScript frameworks and thrive in dynamic development environments where creativity meets functionality. - **Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS, JavaScript (ES6+) - **Backend:** Node.js, Express.js - **Database:** MongoDB, Mongoose - **CMS & E-commerce (Learning):** WordPress, Shopify - **Tools & Platforms:** Git, GitHub, Vercel, Netlify, Postman, Figma</h3>
 
-- 🔭 I’m currently working on [teqtronics](http://teqtronics.com/)
+- 🔭 I’m currently working on **Custom WordPress Theme & Plugin Development**
 
 - 🌱 I’m currently learning **Wordpress ans shopify.**
 
+- 👯 I’m looking to collaborate on **Shopify Liquid Templating and Storefront Customization**
+
+- 👨‍💻 All of my projects are available at [https://tayabafrontend.vercel.app/](https://tayabafrontend.vercel.app/)
+
 - 💬 Ask me about **React,Tailwind CSS.**
 
-- 📫 How to reach me **tayabatariq3@gmail.com**
+- 📫 How to reach me **tariqtaiba90@gmail.com**
+
+- 📄 Know about my experiences [https://tayabafrontend.vercel.app/](https://tayabafrontend.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
