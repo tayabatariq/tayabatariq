@@ -6,6 +6,7 @@
 - 🔭 I’m currently working on **Custom WordPress Theme & Plugin Development**
 
 - 🌱 I’m currently learning **Wordpress ans shopify.**
+- 
 
 - 👯 I’m looking to collaborate on **Shopify Liquid Templating and Storefront Customization**
 
