@@ -16,7 +16,7 @@
   `🤝 SkillBarter – Skill Exchange MERN Platform`
 
 - 🌱 I’m currently learning:  
-  `Shopify Theme Development`, `WordPress Plugin System`
+  `Shopify Theme Development`, `WordPress Plugin System`,`Redux`, `WebSocket`
 
 - 💬 Ask me about:  
   `React.js`, `Tailwind CSS`, `MongoDB`, `Express.js`
@@ -33,8 +33,8 @@
 
 | Project | Description | Live |
 |--------|-------------|------|
-| 💬 **LinkUp Chat App** | A real-time messaging app using Socket.io, React, Node.js | [linkup.vercel.app](https://linkup.vercel.app) *(Demo link – replace with actual)* |
-| 🔁 **SkillBarter** | MERN app where users exchange skills like React, Design, etc. | [skillbarter.vercel.app](https://skillbarter.vercel.app) *(Demo link – replace with actual)* |
+| 💬 **LinkUp Chat App** | A real-time messaging app using Socket.io, React, Node.js | [linkup.vercel.app](https://linkup.vercel.app)  |
+| 🔁 **SkillBarter** | MERN app where users exchange skills like React, Design, etc. | [skillbarter.vercel.app]([https://skillbarter.vercel.app](https://skillbarter-beta.vercel.app/)) * |
 
 ---
 
