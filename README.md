@@ -1,91 +1,98 @@
-<h1 align="center">Hi 👋, I'm Full Stack Developer</h1>
-<h4 align="center">I’m a Full Stack Developer passionate about building responsive, user-friendly, and intuitive web applications. I specialize in modern JavaScript frameworks and thrive in dynamic development environments where creativity meets functionality. - **Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS, JavaScript (ES6+) - **Backend:** Node.js, Express.js - **Database:** MongoDB, Mongoose - **CMS & E-commerce (Learning):** WordPress, Shopify - **Tools & Platforms:** Git, GitHub, Vercel, Netlify, Postman, Figma</h4>
+<h1 align="center">Hi 👋, I'm Tayaba Tariq</h1>
+<h4 align="center">💻 React & Node.js Developer | 💬 Real-time Apps | 🌐 Clean UI/UX Enthusiast</h4>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Custom WordPress Theme & Plugin Development**
-
-- 🌱 I’m currently learning **Wordpress ans shopify.**
-- 
-
-- 👯 I’m looking to collaborate on **Shopify Liquid Templating and Storefront Customization**
-
-- 👨‍💻 All of my projects are available at [https://tayabafrontend.vercel.app/](https://tayabafrontend.vercel.app/)
-
-- 💬 Ask me about **React,Tailwind CSS.**
-
-- 📫 How to reach me **tariqtaiba90@gmail.com**
-
-- 📄 Know about my experiences [https://tayabafrontend.vercel.app/](https://tayabafrontend.vercel.app/)
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-<a href="https://linkedin.com/in/tayabatariq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tayabatariq" height="30" width="40" /></a>
-<a href="https://fb.com/tayaba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tayaba" height="30" width="40" /></a>
-<a href="https://instagram.com/tayabatariq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tayabatariq" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dev" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&width=435&lines=React+%F0%9F%92%BB+Tailwind+Lover;Full+Stack+Web+Developer;Building+SkillBarter+%F0%9F%93%88;Working+on+LinkUp+Chat+App+%F0%9F%92%AC" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-<!-- 🧑‍🎨 Frontend -->
-<h4 align="left">Frontend</h4>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
+### 👩‍💻 About Me
+
+- 🔭 I’m currently working on:  
+  `🛠 Custom WordPress Development`  
+  `💬 LinkUp – Real-time Chat App using MERN + Socket.io`  
+  `🤝 SkillBarter – Skill Exchange MERN Platform`
+
+- 🌱 I’m currently learning:  
+  `Shopify Theme Development`, `WordPress Plugin System`
+
+- 💬 Ask me about:  
+  `React.js`, `Tailwind CSS`, `MongoDB`, `Express.js`
+
+- 📫 How to reach me:  
+  **tariqtaiba90@gmail.com**
+
+- 🌐 Portfolio:  
+  [https://tayabafrontend.vercel.app](https://tayabafrontend.vercel.app)
+
+---
+
+### 🚀 Projects
+
+| Project | Description | Live |
+|--------|-------------|------|
+| 💬 **LinkUp Chat App** | A real-time messaging app using Socket.io, React, Node.js | [linkup.vercel.app](https://linkup.vercel.app) *(Demo link – replace with actual)* |
+| 🔁 **SkillBarter** | MERN app where users exchange skills like React, Design, etc. | [skillbarter.vercel.app](https://skillbarter.vercel.app) *(Demo link – replace with actual)* |
+
+---
+
+### 🛠️ Tech Stack
+
+#### 🧑‍🎨 Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-38BDF8?logo=tailwindcss&logoColor=white&style=flat-square)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&style=flat-square)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+
+#### 🔧 Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+![Mongoose](https://img.shields.io/badge/-Mongoose-800000?logo=mongoose&logoColor=white&style=flat-square)
+
+#### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat-square)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat-square)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tayabatariq&show_icons=true&theme=radical&border_radius=10&hide_border=true" alt="GitHub Stats" />
 </p>
 
-<!-- 🔧 Backend -->
-<h4 align="left">Backend</h4>
-<p align="left">
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayabatariq&layout=compact&theme=radical&border_radius=10&hide_border=true" alt="Top Languages" />
 </p>
 
-<!-- 💻 Programming Languages -->
-<h4 align="left">Programming Languages</h4>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tayabatariq&theme=radical&border_radius=10&hide_border=true" alt="Streak Stats" />
 </p>
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tayabatariq&show_icons=true&locale=en&layout=compact" alt="tayabatariq" /></p>
+### 📲 Connect with Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tayabatariq&show_icons=true&locale=en" alt="tayabatariq" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tayabatariq&" alt="tayabatariq" /></p>
+<p align="center">
+  <a href="https://linkedin.com/in/tayabatariq" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://instagram.com/tayabatariq" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://fb.com/tayaba" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.youtube.com/@tayabadev" target="_blank">
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
