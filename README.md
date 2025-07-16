@@ -34,7 +34,7 @@
 | Project | Description | Live |
 |--------|-------------|------|
 | 💬 **LinkUp Chat App** | A real-time messaging app using Socket.io, React, Node.js | [linkup.vercel.app](https://linkup.vercel.app)  |
-| 🔁 **SkillBarter** | MERN app where users exchange skills like React, Design, etc. | [skillbarter.vercel.app]([https://skillbarter.vercel.app](https://skillbarter-beta.vercel.app/)) * |
+| 🔁 **SkillBarter** | MERN app where users exchange skills like React, Design, etc. | [skillbarter.vercel.app](https://skillbarter.vercel.app](https://skillbarter-beta.vercel.app/)) * |
 
 ---
 
