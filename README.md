@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&width=435&lines=React+%F0%9F%92%BB+Tailwind+Lover;Full+Stack+Web+Developer;Building+SkillBarter+%F0%9F%93%88;Working+on+LinkUp+Chat+App+%F0%9F%92%AC" />
 </p>
-
 ---
 
 ### 👩‍💻 About Me
