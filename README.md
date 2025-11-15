@@ -1,29 +1,39 @@
 <h1 align="center">Hi 👋, I'm Tayaba Tariq</h1>
-<h4 align="center">💻 React & Node.js Developer | 💬 Real-time Apps | 🌐 Clean UI/UX Enthusiast</h4>
-
+<h4 align="center">💻 React & Node.js Developer | 🌐 MERN Stack | 💬 Real-time & AI-Powered Apps</h4>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&width=435&lines=React+%F0%9F%92%BB+Tailwind+Lover;Full+Stack+Web+Developer;Building+SkillBarter+%F0%9F%93%88;Working+on+LinkUp+Chat+App+%F0%9F%92%AC" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&width=435&lines=React+%F0%9F%92%BB+Tailwind+Lover;Full+Stack+Web+Developer;Building+SkillBarter+%F0%9F%93%88;Exploring+AI+%26+GenAI+%F0%9F%A7%A0" />
 </p>
+
 ---
+
 ### 👩‍💻 About Me
 
-- 🔭 I’m currently working on:  
+- 🔭 **I’m currently working on:**  
   `🛠 Custom WordPress Development`  
-  `💬 LinkUp – Real-time Chat App using MERN + Socket.io`  
-  `🤝 SkillBarter – Skill Exchange MERN Platform`
+  `🤝 SkillBarter – Skill Exchange MERN Platform`  
+  `🤖 Exploring AI & GenAI Tools`  
 
-- 🌱 I’m currently learning:  
-  `Shopify Theme Development`, `WordPress Plugin System`,`Redux`, `WebSocket`
+- 🌱 **I’m currently learning:**  
+  `Shopify Theme Development`,  
+  `WordPress Plugin System`,  
+  `Redux`,  
+  `WebSocket`,  
+  `AI + Automation Tools`
 
-- 💬 Ask me about:  
-  `React.js`, `Tailwind CSS`, `MongoDB`, `Express.js`
+- 🧪 **Professional Experience:**  
+  - 🎓 **Ammal Fellowship – Full Stack & GenAI (3 Months)**  
+  - 👩‍💻 **Freelance Developer – Impremium Media Group (3 Months)**  
+    *Worked on a production-level web project including frontend + backend.*  
 
-- 📫 How to reach me:  
+- 💬 **Ask me about:**  
+  `React.js`, `Tailwind CSS`, `MongoDB`, `Express.js`, `Full Stack Apps`
+
+- 📫 **Reach me at:**  
   **tariqtaiba90@gmail.com**
 
-- 🌐 Portfolio:  
-  [https://tayabafrontend.vercel.app](https://tayabafrontend.vercel.app)
+- 🌐 **Portfolio:**  
+  **https://tayabafrontend.vercel.app**
 
 ---
 
@@ -31,14 +41,13 @@
 
 | Project | Description | Live |
 |--------|-------------|------|
-| 💬 **LinkUp Chat App** | A real-time messaging app using Socket.io, React, Node.js | [linkup.vercel.app](https://linkup.vercel.app)  |
-| 🔁 **SkillBarter** | MERN app where users exchange skills like React, Design, etc. | [skillbarter.vercel.app](https://skillbarter.vercel.app](https://skillbarter-beta.vercel.app/)) * |
+| 🔁 **SkillBarter** | MERN app where users exchange skills like React, Design, etc. | [skillbarter-beta.vercel.app](https://skillbarter-beta.vercel.app/) |
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack  
 
-#### 🧑‍🎨 Frontend
+#### 🧑‍🎨 Frontend  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38BDF8?logo=tailwindcss&logoColor=white&style=flat-square)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&style=flat-square)
@@ -46,13 +55,13 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 
-#### 🔧 Backend
+#### 🔧 Backend  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-800000?logo=mongoose&logoColor=white&style=flat-square)
 
-#### ⚙️ Tools & Platforms
+#### ⚙️ Tools & Platforms  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
@@ -62,24 +71,22 @@
 
 ---
 
-### 📊 GitHub Stats
-
+### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tayabatariq&show_icons=true&theme=radical&border_radius=10&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tayabatariq&show_icons=true&theme=radical&border_radius=10&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayabatariq&layout=compact&theme=radical&border_radius=10&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayabatariq&layout=compact&theme=radical&border_radius=10&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tayabatariq&theme=radical&border_radius=10&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tayabatariq&theme=radical&border_radius=10&hide_border=true" />
 </p>
 
 ---
 
-### 📲 Connect with Me
-
+### 📲 Connect with Me  
 <p align="center">
   <a href="https://linkedin.com/in/tayabatariq" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
